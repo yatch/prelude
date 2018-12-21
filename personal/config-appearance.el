@@ -1,5 +1,7 @@
+(menu-bar-mode 0)
 (show-paren-mode t)
 (blink-cursor-mode 0)
+
 (if window-system
     (progn
       (tool-bar-mode 0)
