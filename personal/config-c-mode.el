@@ -8,4 +8,4 @@
 (setq-default c-electric-flag nil)
 
 ;; for contiki
-(c-set-offset 'case-label '+)
+;(c-set-offset 'case-label '+)
